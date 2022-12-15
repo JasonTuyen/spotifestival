@@ -10,7 +10,7 @@ A Spotify web application to display your top artists as a festival lineup poste
 * Using the Spotify API
 
 ## Demo
-https://spotifestival.azurewebsites.net/
+Free hosting on Microsoft Azure comes with long load times, so apologies in advance: https://spotifestival.azurewebsites.net
 
 ## Installation Instructions
 1. Soon.
